@@ -19,7 +19,7 @@ link evidencia: https://ntsec.empregare.com/pt-br/vaga-estagiario-ti-df_136946
 Evidência:
 
 3. Currículo
-link: file:///C:/Users/vitor_000/Downloads/0632346d-d7ab-4b67-9b69-bf24572ad1fb%20(1).pdf
+link:https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=73A626D5D5EC6FDF2AB5AEE990492E84.buscatextual_0
 
 4. Repositórios das Disciplinas do 1º Semestre
 

@@ -20,6 +20,7 @@ Evidência:
 
 3. Currículo
 link: https://lattes.cnpq.br/5274681562943240
+
 4. Repositórios das Disciplinas do 1º Semestre
 
 Organização de repositórios separados para cada disciplina do semestre, cada um com README básico.

@@ -22,12 +22,12 @@ documento que reúne suas informações profissionais, como dados pessoais, expe
 
 link: https://lattes.cnpq.br/5274681562943240
 
-4. comprovante de evento
+3. comprovante de evento
 Declaro que participei do evento, cumprindo as atividades propostas e acompanhando os conteúdos apresentados. Minha presença teve como objetivo ampliar conhecimentos e contribuir para meu desenvolvimento pessoal e profissional.
 
 link: https://github.com/visabyna/Design-Profissional/blob/main/Certificado%20-%20Fac%CC%A7a%20seu%20nego%CC%81cio%20se%20destacar%20no%20LinkedIn%20(3).pdf
 
-5. Repositórios das Disciplinas do 1º Semestre
+4. Repositórios das Disciplinas do 1º Semestre
 um repositório é um espaço onde você guarda e organiza arquivos de um projeto, incluindo código-fonte, documentos e histórico de alterações. Ele permite controlar versões, colaborar com outras pessoas e acompanhar o desenvolvimento do projeto ao longo do tempo. Meus repositórios tem como foco as materias da faculdade. 
 
 Algoritmos e Pensamento Computacional

@@ -19,8 +19,7 @@ link evidencia: https://ntsec.empregare.com/pt-br/vaga-estagiario-ti-df_136946
 Evidência:
 
 3. Currículo
-link:https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=73A626D5D5EC6FDF2AB5AEE990492E84.buscatextual_0
-
+link: https://lattes.cnpq.br/5274681562943240
 4. Repositórios das Disciplinas do 1º Semestre
 
 Organização de repositórios separados para cada disciplina do semestre, cada um com README básico.

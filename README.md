@@ -18,9 +18,8 @@ link evidencia: https://ntsec.empregare.com/pt-br/vaga-estagiario-ti-df_136946
 2. Certificado de Participação em Evento
 Evidência:
 
-3. Currículo (Lattes ou LaTeX)
-Criação de currículo acadêmico ou técnico voltado à área de TI.
-
+3. Currículo
+link: file:///C:/Users/vitor_000/Downloads/0632346d-d7ab-4b67-9b69-bf24572ad1fb%20(1).pdf
 
 4. Repositórios das Disciplinas do 1º Semestre
 

@@ -1,5 +1,4 @@
 # README-principal
-Todos os links e arquivos organizados em um único repositório central. 
 
 Trilha de Entregáveis – Avaliação A1 (Design Profissional)
 
@@ -22,28 +21,21 @@ Evidência:
 3. Currículo (Lattes ou LaTeX)
 Criação de currículo acadêmico ou técnico voltado à área de TI.
 
-Evidência: 
 
-PDF do currículo gerado em LaTeX ou link do Lattes.
- /Curriculo_Latex.pdf
-ou
- Link para o Currículo Lattes: [insira aqui]
-
-4. Portfólio no GitHub
-
-Repositório contendo um README profissional e pelo menos um projeto relevante.
-
- Evidência:
-Link do Portfólio: [link do seu repositório]
-Arquivos:
-
-5. Repositórios das Disciplinas do 1º Semestre – (Valor: 1,5)
+4. Repositórios das Disciplinas do 1º Semestre
 
 Organização de repositórios separados para cada disciplina do semestre, cada um com README básico.
 
  Inclui os repositórios de:
 
 Algoritmos e Pensamento Computacional
+https://github.com/visabyna/Algoritmos-e-Pensamento-Computacional- 
 
+Desevolvimento Front End Para Web 
+https://github.com/visabyna/Desevolvimento-Front-End-Para-Web 
 
-Links dos repositórios:
+Modelagem de Banco de Dados
+https://github.com/visabyna/Modelagem-de-Banco-de-Dados
+
+Design Profissional
+https://github.com/visabyna/Design-Profissional

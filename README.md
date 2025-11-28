@@ -20,9 +20,6 @@ link: https://lattes.cnpq.br/5274681562943240
 
 3. Repositórios das Disciplinas do 1º Semestre
 
-Organização de repositórios separados para cada disciplina do semestre, cada um com README básico.
-
- Inclui os repositórios de:
 
 Algoritmos e Pensamento Computacional
 https://github.com/visabyna/Algoritmos-e-Pensamento-Computacional- 

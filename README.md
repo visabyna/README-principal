@@ -16,8 +16,9 @@ Participação ou candidatura em vaga de estágio/trainee em TI (ADS ou Comp. Sc
 link evidencia: https://ntsec.empregare.com/pt-br/vaga-estagiario-ti-df_136946
 
 2. Certificado de Participação em Evento
-Evidência:
+Evidência: (no momento a ´nica forma de comprovar minha presença em um evento de tecnologia é com uma imagem minha no "tranformando o futuro"
 https://github.com/visabyna/Design-Profissional/blob/main/42103482-89a3-4bf3-9624-32c4e55a353d.jpg
+https://github.com/visabyna/Design-Profissional/blob/main/6952b250-4a6e-4085-aa4f-9da36f3a995e.jpg
 
 4. Currículo
 link: https://lattes.cnpq.br/5274681562943240
